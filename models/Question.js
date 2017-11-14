@@ -1,6 +1,6 @@
 'use strict';
 
-const Question = class Question {
+class Question {
   static Find(){
 
   }
