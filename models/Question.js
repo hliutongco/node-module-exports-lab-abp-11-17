@@ -2,7 +2,7 @@
 
 const Question = class Question {
   static Find(){
-    
+
   }
 }
 
