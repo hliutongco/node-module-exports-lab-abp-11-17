@@ -1,8 +1,9 @@
 'use strict';
 
-class Question {
+const Question = class Question {
   static Find(){
     
   }
 }
 
+module.exports = Question;
